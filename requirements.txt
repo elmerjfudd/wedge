@@ -1,0 +1,6 @@
+pandas
+orjson
+numpy
+matplotlib
+seaborn
+statistics
