@@ -1,0 +1,5460 @@
+{
+    "time_limit": 1.0,
+    "solutions_0272": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0377": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0134": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0363": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0206": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0103": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0409": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0120": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0014": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0012": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0320": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0171": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0307": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0121": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0267": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0278": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0196": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0424": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0265": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0243": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0366": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0356": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0047": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0099": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0045": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0183": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0411": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0386": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0317": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0325": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0394": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0262": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0013": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0204": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0248": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0229": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0211": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0264": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0165": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0088": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0141": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0025": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0140": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0259": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0072": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0142": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0046": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0355": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0136": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0067": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0173": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0379": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0168": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0180": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0062": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0131": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0081": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0064": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0292": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0260": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0004": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0398": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0319": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0086": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0221": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0274": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0328": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0209": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0223": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0091": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0061": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0096": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0101": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0249": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0031": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0006": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0286": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0210": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0247": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0132": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0129": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0113": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0195": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0024": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0215": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0225": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0285": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0312": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0154": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0143": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0351": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0106": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0421": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0135": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0282": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0213": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0405": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0205": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0155": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0241": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0418": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0226": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0114": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0360": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0257": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0033": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0020": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0054": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0058": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0186": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0005": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0042": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0388": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0402": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0297": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0184": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0357": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0138": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0298": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0070": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0270": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0400": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0373": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0149": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0162": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0352": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0305": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0301": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0063": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0381": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0087": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0219": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0026": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0201": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0407": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0273": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0049": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0232": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0324": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0123": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0060": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0192": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0306": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0115": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0250": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0174": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0124": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0314": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0112": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0344": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0080": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0110": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0315": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0167": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0056": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0235": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0251": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0332": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0316": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0246": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0304": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0337": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0412": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0018": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0333": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0207": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0147": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0125": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0203": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0146": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0227": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0041": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0427": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0302": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0303": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0242": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0378": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0200": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0144": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0283": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0334": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0122": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0245": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0281": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0160": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0156": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0228": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0176": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0170": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0368": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0128": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0007": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0233": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0287": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0354": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0309": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0090": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0362": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0178": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0331": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0391": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0119": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0222": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0364": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0050": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0085": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0263": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0001": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0035": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0425": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0153": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0224": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0370": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0329": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0385": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0361": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0276": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0185": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0271": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0069": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0359": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0023": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0353": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0284": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0406": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0126": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0161": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0234": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0198": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0220": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0401": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0133": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0347": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0252": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0236": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0166": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0038": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0109": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0321": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0032": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0376": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0152": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0040": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0008": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0193": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0093": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0108": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0095": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0208": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0068": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0266": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0238": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0294": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0190": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0280": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0279": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0083": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0423": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0346": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0341": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0010": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0349": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0369": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0217": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0071": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0172": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0097": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0426": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0118": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0291": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0089": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0392": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0299": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0372": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0339": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0139": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0111": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0326": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0313": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0399": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0098": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0258": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0212": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0290": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0150": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0365": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0288": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0000": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0414": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0092": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0011": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0335": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0137": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0094": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0342": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0420": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0076": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0322": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0338": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0384": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0177": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0034": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0295": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0327": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0348": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0017": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0078": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0145": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0116": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0416": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0382": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0052": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0255": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0293": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0102": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0075": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0404": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0065": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0157": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "WA",
+            "WA",
+            "WA",
+            "WA",
+            "WA"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0189": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    },
+    "solutions_0218": {
+        "language": "cpp",
+        "online_judge_verdict": "correct",
+        "verdict": [
+            "AC",
+            "AC",
+            "AC",
+            "AC",
+            "AC"
+        ],
+        "average_time": [],
+        "max_time": [],
+        "time_dict": {},
+        "average_instruction_cnt": [],
+        "max_instruction_cnt": [],
+        "instruction_cnt_dict": {}
+    }
+}
