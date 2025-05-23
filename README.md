@@ -69,6 +69,7 @@ wedge
 ├── code
 |  └── stats/
 ├── setup_env.sh
+├── case_studies.md
 ├── README
 └── LICENSE
 ```
@@ -77,11 +78,12 @@ where
 - `evalperf_slow` and `evalperf_rand` are tests and stats related to [EvalPerf](https://evalplus.github.io/evalperf.html)
 - `test_gen_prompt` are tests and stats related to our LLM-based test generation prompting baslines
 - `wedge_***` are tests and stats related to the varios ablated verions of WEDGE
+- `case_studies.txt` are a list of the top 25 most complex (combined \# tokens in the LLM plain-language description and checker LoCs) performance-characterizing constraints synthesized by WEDGE 
 
 ### 1.1 Cloning the repository
 
 **Step #1**: To download the repository locally, users can run the following command:
-```
+```bash
 git clone https://github.com/elmerjfudd/wedge
 ```
 We encourate users to check that the downloaded copy has the same directory structure as above.
@@ -94,9 +96,10 @@ WEDGE relies on a few dependencies:
 - Python 3.10 or later, along with several relevant packages
 - `perf` 5.15 or later
 - `gcov` 11.4 or later
+- Bash shell
 
 **Step #2**: To install these dependencies, users can run the following command:
-```
+```bash
 cd  /path/to/wedge/repo
 sudo ./setup_env.sh
 ```
@@ -104,9 +107,17 @@ sudo ./setup_env.sh
 > Some of the dependencies (e.g. `perf`) require root user privileges to install and configure.
 
 **Step #3**: Finally, users need to update their `PYTHONPATH` environment varialbe:
-```
+```bash
 cd /path/to/wedge/repo
 export PYTHONPATH=$PYTHONPATH:$(pwd)/code
+```
+
+### 1.3 Handling compressed files
+
+> [!NOTE]
+> The current artifact compresis of generated tests, LLM responses, and raw measurements. It amounts to over 30GB of data which is challenging to store online. Some of the deliverables in this repository are compressed and thus users should uncompress them before running any utility/code. To do so, userrs can navigate to the `./data` (largely to `wedge***`-related subdirectories) and `./problems` directories, then run the following one-liner:
+```bash
+for archive in *.tar.xz; do echo "Extracting $archive…"; tar -xJf "$archive"; done
 ```
 
 ## 2. Collecting statistics over our raw data
@@ -114,7 +125,7 @@ export PYTHONPATH=$PYTHONPATH:$(pwd)/code
 We provide users with the raw measurements collected by WEDGE. This way, users can collect statistics and recreate the tables and figures for our main experiements: WEDGE vs. baslines; and WEDGE vs. its ablated versions.
 
 To generate statistics, users should use the `./code/stats` utility:
-```
+```bash
 python3 ./code/stats/main.py 
                  --data-path DATA_DIR
                  --summaries-out-path STATS_DIR 
@@ -126,9 +137,8 @@ where
 - `--language` is on optional parameter limiting the tool to operate only on a specific programming language (`cpp`, `java`, or `python`); if no luanguage is selected the default is `cpp`
 
 Here is an usage example, assuming the directory structure above:
-```
+```bash
 cd /path/to/wedge/repo
 python3 ./code/stats/main.py --data-path $(pwd)/data/ --summaries-out-path $(pwd)/summaries --language cpp
 ```
-This command will populate the `summaries/tables`, `summaires/plots` and `summaries/csv` directories with the tables, plots and aggregated measurements in CSV format that comprise the key results of our original main experiments.  
-
+This command will populate the `summaries/tables`, `summaires/plots` and `summaries/csv` directories with the tables, plots and aggregated measurements in CSV format that comprise the key results of our original main experiments.
